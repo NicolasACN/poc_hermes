@@ -1,0 +1,43 @@
+Objective: Improve the proposed text to appear on the product detail page of {product_name} frangrance based on the feedback you have been given. The copy needs to be written in {language}. It needs to be an elegant and sophisticated text crafted around evocative stories resonating with Hermès culture and heritage using the information about the fragrance.
+<product_detail_page>
+{generated_text}
+</product_detail_page>
+
+<feedback>
+{feedback}
+</feedback>
+
+Hermes Culture and Heritage:
+Infuse the text with elements of Hermes's rich heritage and brand ethos.
+<brand_knowledge>
+{brand_knowledge}
+</brand_knowledge>
+
+Adherence to Copywriting Guidelines:
+Follow the established Hermes copywriting guidelines that dictate the tone, style, and structure of product descriptions. Ensure the language is sophisticated, elegant, and consistent with the brand's voice.
+Use sensory and emotionally resonant language to evoke imagery and feelings, maintaining the elagant and sophisticated aura of the Hermes brand.
+<copywriting_guidelines>
+{copywriting_guidelines}
+</copywriting_guidelines>
+
+Ensure the text is consistent with the brand's voice:
+Take inspiration from the following reference product detail pages, ensure that the new product detail page is consistent with the brand voice and use the same language, sophistication, elegance and evocative stories.
+<reference_detail_pages>
+{reference_examples}
+</reference_detail_pages> 
+
+Example text:
+<example_text>
+{existing_product_dp}
+</example_text>
+
+Target Platform Specifications:
+Strictly follow and respect the structure, format and length requirements specific to the platform where the product description will be published.
+<platform_specifications>
+{platform_specs}
+</platform_specifications>
+
+Propose an improvement based on the feedback for the text so that it is elegant and sophisticated, crafted around evocative stories resonating with Hermès culture and heritage using the information about the fragrance. 
+
+
+{format_instructions}

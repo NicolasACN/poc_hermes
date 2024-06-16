@@ -1,0 +1,34 @@
+Objective: Adapt and existing Hermès text from the product detail page to a specific retailer, stricly following the retailer paltform specs. The adapted version should inspirational, evocative, sophisticated and elegant text to appear the product detail page of {product_name} based on the provided details and information about the fragrance and following the same structure and tone of voice as the provided reference details pages. It should take inspiration from the hermès version and adapt it. The copy needs to be written in {language}.
+<hermes_product_detail_page>
+{existing_product_dp}
+</hermes_product_detail_page>
+
+Hermes Culture and Heritage:
+Infuse the text with elements of Hermes's rich heritage and brand ethos.
+<brand_knowledge>
+{brand_knowledge}
+</brand_knowledge>
+
+Adherence to Copywriting Guidelines:
+Follow the established Hermes copywriting guidelines that dictate the tone, style, and structure of product descriptions. Ensure the language is sophisticated, elegant.
+Use sensory and emotionally resonant language to evoke imagery and feelings, maintaining the elagant and sophisticated aura of the Hermes brand.
+<copywriting_guidelines>
+{copywriting_guidelines}
+</copywriting_guidelines>
+
+Ensure the text is consistent with the brand's voice:
+While adapting the original text, take inspiration from the following reference adaption of product detail pages, ensure that the new product detail page is consistent with the brand voice and use the same language, sophistication, elegance and evocative stories and the target platform specs.
+<reference_detail_pages>
+{reference_examples}
+</reference_detail_pages> 
+
+Target Platform Specifications:
+Strictly follow and respect the structure, format and length requirements specific to the platform where the product description will be published.
+<platform_specifications>
+{platform_specs}
+</platform_specifications>
+
+Please write an inspirational, sophisticated and elegant adaption of the text using the provided information to craft evocative stories that resonate with Hermès' culture and hertiage following the platform specs.
+
+
+{format_instructions}

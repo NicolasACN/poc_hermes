@@ -1,0 +1,7 @@
+Please provide a few concise improvement suggestions if needed to the writer of the following text: 
+<written_text>
+{generated_text}
+</written_text>
+
+
+{format_instructions}

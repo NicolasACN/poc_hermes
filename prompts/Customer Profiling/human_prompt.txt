@@ -1,0 +1,22 @@
+Based on a Chanel Fragrance & Beauty customer profile, your task is to : 
+
+Identify Needs based on Location: 
+Determine the high level needs of the Chanel fragrance & beauty customer by analyzing their location. Tailor the needs based on regional characteristics. Don't recommend products, only the specific potential location specific needs that could be appealing for the customer of this given location. 
+
+Identify preferences based on Purchase History: 
+Utilize data on the customer s past purchases to understand and predict her high level preferences. Include the product from the purchase history.
+Use purchase history to enhance relevance. For example, if the customer has purchased the N°1 DE CHANEL REVITALIZING CREME, suggest adding the serum to their youthful skincare routine. If they own both the creme and serum, highlight how the Skin Enhancer complements their existing routine.
+For a customer who has previously purchased the N°1 DE CHANEL REVITALIZING CREME:
+
+Here are some examples of preference based on purchase history: 
+Personalize the description of the N°1 DE CHANEL REVITALIZING SERUM to suggest it as an essential addition to their youthful skincare routine.
+For a customer who has both the creme and serum, highlight the Skin Enhancer as a complementary beauty gesture to enhance their routine.
+
+Communication Strategy: 
+Develop personalized communication approaches based on customer type (e.g., VIC customers), enhancing engagement and response leveraging the customer identified preferences and location based needs.
+
+<customer_profile>
+{customer_profile}
+</customer_profile>
+
+{format_instructions}
